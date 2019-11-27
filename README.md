@@ -1,2 +1,2 @@
-[UFOBlogEntry.pdf](http://DunkRing.github.io/UFOBlogEntry/UFOBlogEntry.pdf)
+[UFOBlogEntry.pdf](https://github.com/DunkRing/UFOBlogEntry/blob/master/UFOBlogEntry.pdf)
 
